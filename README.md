@@ -1,3 +1,3 @@
-# Profile
+# Elie Ly-Kok //web development
 
-description
+welcome to my github profile page! &#x1F60E;
